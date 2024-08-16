@@ -108,7 +108,7 @@ deploy:
   type: ''
 
 disqus:
-  enable: enable
+  enable: true
   shortname: entropytk
   count: true
 google_analytics: UA-85214466-1
