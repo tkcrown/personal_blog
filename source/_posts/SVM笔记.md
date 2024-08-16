@@ -1,5 +1,6 @@
 ---
 title: Support Vector Machine笔记
+date: 2017-04-04 04:32:09
 mathjax: true
 tags:
 - Machine Learning

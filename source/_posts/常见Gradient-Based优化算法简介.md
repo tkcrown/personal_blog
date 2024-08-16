@@ -1,6 +1,6 @@
-
 ---
 title: 常见Gradient-Based优化算法简介
+date: 2017-05-17 04:32:09
 mathjax: true
 tags:
 
@@ -226,6 +226,7 @@ $$
 当$t$增大后，修正项就不起什么作用了。
 
 ## 参考资料
+
 <https://en.wikipedia.org/wiki/Newton%27\vec{s}_method_in_optimization>
 <http://www.deeplearningbook.org/>
 <http://cs231n.github.io/optimization-1/>
