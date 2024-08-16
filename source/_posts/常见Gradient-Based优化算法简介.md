@@ -78,9 +78,7 @@ $$
 
 $$
 \begin{aligned}
-f(\vec{w}_0 - \epsilon \triangledown f_{\vec{w}_0}) - f(\vec{w}_0) \approx
-
-- \epsilon \triangledown f^T  \triangledown f + \frac{1}{2} \epsilon^2 \triangledown f^T \mathbf{H} \triangledown f
+f(\vec{w}_0 - \epsilon \triangledown f_{\vec{w}_0}) - f(\vec{w}_0) \approx - \epsilon \triangledown f^T  \triangledown f + \frac{1}{2} \epsilon^2 \triangledown f^T \mathbf{H} \triangledown f
 \end{aligned}
 $$
 
