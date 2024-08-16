@@ -107,12 +107,6 @@ theme: next
 deploy:
   type: ''
 
-disqus:
-  enable: true
-  shortname: entropytk
-  count: true
-google_analytics: UA-85214466-1
-
 menu:
   home: /
   archives: /archives
