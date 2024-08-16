@@ -107,7 +107,10 @@ theme: next
 deploy:
   type: ''
 
-disqus_shortname: entropytk
+disqus:
+  enable: enable
+  shortname: entropytk
+  count: true
 google_analytics: UA-85214466-1
 
 menu:
